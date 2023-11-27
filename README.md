@@ -36,6 +36,12 @@
 - [x] "npm i @blocknote/core @blocknote/react"
 - [x] create editor.tsx with BlockNoteView
 
+- [x] git init, git add ., git addcommit "init"
+- [x] gh repo create, git push
+- [x] copy env files to vercel, add CONVEX_DEPLOY_KEY with deployment key from convex settigs
+- [x] deploy to vercel
+- [x] override build command to "npm run build && npx convex deploy"
+
 ---
 
 - nextjs, typescript, tailwind, ui.shadcn in detail
