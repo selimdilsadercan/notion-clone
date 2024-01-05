@@ -10,7 +10,7 @@
 
 - [x] "npm install next-themes"
 - [x] add theme-provider.tsx
-- [x] create theme-toggle.tsx switch
+- [x] create ThemeToggle.tsx switch
 - [x] wrap {children} with ThemeProvider
 - [x] add suppressHydrationWarning to html tag
 
